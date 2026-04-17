@@ -1,0 +1,20 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "BOk_26KYjwL-Tv1Ng2SZ1"
+uri = "file://artifacts/school-website/public/images/hero.jpg"
+type = "image"
+title = "diverse happy students walking together in front of a modern school building on a sunny day"
+
+[[outputs]]
+id = "D8EFkamXk4abrJpkkjOxb"
+uri = "file://artifacts/school-website/public/images/library.jpg"
+type = "image"
+title = "bright modern school library with sunlight, students studying"
+
+[[outputs]]
+id = "l3HmDAe6Gz5yQiFJatwso"
+uri = "file://artifacts/school-website/public/images/classroom.jpg"
+type = "image"
+title = "teacher interacting with young students in a bright colorful classroom"
